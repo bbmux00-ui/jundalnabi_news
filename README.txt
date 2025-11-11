@@ -1,6 +1,8 @@
 JundAlNabi News Web App
 ========================
 
+https://brackeysgames.itch.io/brackeys-platformer-bundle
+
 Overview:
 ----------
 JundAlNabi is a modern, Firebase-powered news platform designed for fast, secure, and SEO-friendly article delivery.  
